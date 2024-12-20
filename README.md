@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working in [Robotec.ai](https://www.robotec.ai/)
 - 👯 I collaborate on [O3DE](https://o3de.org/) and [HDMapping](https://michalpelka.github.io/RosCon2024_workshop/) 
-- 📫 How to reach me: email
+- 📫 How to reach me: michalpelka (at) gmail.com
 
 
 <!--
